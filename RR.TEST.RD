@@ -4,6 +4,7 @@
 [VERSION: 1.0.0]
 [DESCRIPTION: Use this as a starting template.  Please do not overwrite. Do a Save As!]
 
+Windows
 
 Target = Account
 
