@@ -22,7 +22,7 @@ End [Setup]
 
 
 Select
-
+"Hello world"
 
 End [Select]
 
@@ -49,4 +49,5 @@ End [Print]
 [Procedures Begin Here!]
 
 #INCLUDE "CU.PRO" [Do not remove]
+
 
